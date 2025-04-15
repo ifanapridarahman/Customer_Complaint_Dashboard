@@ -33,3 +33,33 @@ Dashboard Penjualan E-Commerce adalah untuk memberikan gamabran menyeluruh menge
 - Pasific Asia : 8.32%
 - Africa L 2.25%
 - LATAM dan Europe adalah pasar utama. Perlu analisis lebih lanjut apakah margin keuntungan di LATAM lebih rendah dibandingkan Europe, karena meski penjualan tinggi, keuntungan justru menurun.
+
+## Penjualan YTD & PYTD per Kategori Produk
+- Kategori dengan Pertumbuhan tertinggi
+  - **Water Sport** naik 21.10%
+  - **Camping & Hiking** naik 12.55%
+- Kategori dengan Penurunan Tajam
+  - **Cleats** turun 26.34%
+  - **Indoor/Outdoor Games** turun 26.21%
+  - **Fishing** turun 24.98%
+- Kategori Baru
+  - Computer ($0.66M) : Tidak ada penjualan di PY
+
+- Perlu evaluasi produk yang mengalami penurunan signifikan (cleats, fishing, dll)
+- Produk seperti water sport dan Camping & Hiking berpotensi untuk ditingkatkan penjualannya lebih lanjut
+- Computers sebagai produk baru menunjukkan potensi awal yang lumayan
+
+## Jumlah Akuisisi Pelanggan Bulanan per Segmen Pasar
+- LATAM (merah) dominan di awal tahun, tetapi turun drastis sejak Juli
+- Pasific Asia naik pesat sejak Mei dan mendominasi akhir tahun
+- Europe konsisten di posisi 1-3 sepanjang tahun
+- Africa dan USCA stabil di peringkat bawah
+- Pergeseran dominasi dari LATAM ke Pasific Asia menunjukkan perubahan dinamika pasar
+- Perlu strategi retensi pelanggan di LATAM dan eksplorasi potensi pertumbuhan lebih lanjut di Pasific Asia
+
+
+## Kesimpulan Utama
+- **Penjualan naik**, tetapi **Profit stagnan/menurun**. Evaluasi margin produk dan efisiensi biaya.
+- Kategori **Water Sport** dan **Camping & Hiking** menunjukkan tren positif. Bisa ditingkatkan stok dan promosi.
+- LATAM tetap penting, tapi Pasific Asia menunjukkan potensi pertumbuhan signifikan
+- Perlu evaluasi kategori yang merugi dan pelanggan di pasar yang menurun
